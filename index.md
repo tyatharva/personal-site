@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ridge, NJ. I'm passionate about machine learning, data science, and software development. In my free time, I enjoy participating in hackathons, coding competitions, and exploring new technologies (correct this).
+Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ridge, NJ. I'm passionate about the interesction between atmospheric science and machine learning. If I'm not preoccupied with getting xarray to do what I want it to or reading Tarbuck's _Earth Science_, you'll find me doing some sort of outdoor activity.
 
 * * *
 
@@ -19,8 +19,8 @@ Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ri
 ## Next-Hour Lake-Effect Quantitative Precipitation Forecasts over the Great Lakes with Deep Learning
 ### September 2024–September 2025
 *   Created a **novel 41 GB** dataset with Python containing 10,202 samples of lake-effect precipitation from public data on AWS
-*   **Enhanced a pix2pix GAN** model with a UNetFormer generator over the Great Lakes to produce superior results to NOAA's [HRRR](https://rapidrefresh.noaa.gov/hrrr/)
-*   Earned a **grand award** ([fourth in category](https://isef.net/project/eaev048-ml-based-lake-effect-precipitation-prediction)) at the 2025 **International Science and Engineering Fair**, [published a paper](https://doi.org/10.1175/AIES-D-25-0009.1), and running it [live](https://www.tyagi.app/)
+*   **Enhanced a pix2pix GAN** model with a UNetFormer generator over the Great Lakes to produce **superior results to NOAA's [HRRR](https://rapidrefresh.noaa.gov/hrrr/)**
+*   Earned a **grand award** ([fourth in category](https://isef.net/project/eaev048-ml-based-lake-effect-precipitation-prediction)) at the 2025 **International Science and Engineering Fair**, [published a paper](https://doi.org/10.1175/AIES-D-25-0009.1), and runs it [live](https://www.tyagi.app/)
 
 * * *
 
@@ -55,4 +55,5 @@ Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ri
 ### Favorite Quote
 
 > I can't quit (quit) at all, at all
+>
 > ~ YoungBoy Never Broke Again
