@@ -20,7 +20,7 @@ Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ri
 ### September 2024–September 2025
 *   Created a **novel 41 GB** dataset with Python containing 10,202 samples of lake-effect precipitation from public data on AWS
 *   **Enhanced a pix2pix GAN** model with a UNetFormer generator over the Great Lakes to produce **superior results to NOAA's [HRRR](https://rapidrefresh.noaa.gov/hrrr/)**
-*   Earned a **grand award** ([fourth in category](https://isef.net/project/eaev048-ml-based-lake-effect-precipitation-prediction)) at the 2025 **International Science and Engineering Fair**, [published a paper](https://doi.org/10.1175/AIES-D-25-0009.1), and runs it [live](https://www.tyagi.app/)
+*   Earned a **grand award** ([4th in category](https://isef.net/project/eaev048-ml-based-lake-effect-precipitation-prediction)) at the 2025 **International Science and Engineering Fair**, [published a paper](https://doi.org/10.1175/AIES-D-25-0009.1), and runs it [live](https://www.tyagi.app/)
 
 * * *
 
@@ -40,7 +40,7 @@ Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ri
 
 ## Weather Forecasting, Research, and Education
 ### Content Creator ([YouTube](https://youtube.com/@atyagiwx))
-*   Produces weather videos with *5k total views* to *educate the public* about topical events and concepts
+*   Produces weather videos with **5k total views** to **educate the public** about topical events and concepts
 *   Applies iMovie and atmospheric science knowledge to **plan out and edit media** content
 *   Hopes to **inspire curiosity** in others about the **world around them**
 
@@ -49,11 +49,3 @@ Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ri
 *   Studies and researches earth and space science **thoroughly from own interest**
 *   Scored in the **top 40 nationally** on the United States **Earth Science Olympiad** open exam
 *   **Invited** to and **attended** the US **training camp** for selection of the international team
-
-* * *
-
-### Favorite Quote
-
-> I can't quit (quit) at all, at all
->
-> ~ YoungBoy Never Broke Again
