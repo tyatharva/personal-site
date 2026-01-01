@@ -26,12 +26,6 @@ Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ri
 
 # Some Extracurricular Activities
 
-## USESO Preparation Bootcamp
-### Founder & Lecturer
-*   Fill.
-*   This.
-*   In.
-
 ## National Science Bowl Club
 ### Captain
 *   Participates in the National Science Bowl Club **since 6th grade** to compete in the competition
